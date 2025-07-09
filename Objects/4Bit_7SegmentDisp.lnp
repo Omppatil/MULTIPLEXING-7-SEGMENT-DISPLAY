@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\4Bit_7SegmentDisp" 
+PRINT(".\Listings\4Bit_7SegmentDisp.m51")
